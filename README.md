@@ -82,31 +82,28 @@ Generate global cross-sell recommendations
 Generate segment-specific cross-sell recommendations
 
 ## Dashboard(Power BI)
-# OVERVIEW
+
 <img width="1292" height="723" alt="Screenshot 2025-12-31 141201" src="https://github.com/user-attachments/assets/f8989855-8a50-495b-890d-7a5d5c0aa459" />
 
-# CUSTOMER SEGMENTATION AND BEHAVIOR ANALYSIS
 <img width="1298" height="716" alt="Screenshot 2025-12-31 141931" src="https://github.com/user-attachments/assets/3e437df8-6042-45ff-9f34-a3ba650fac2a" />
 
-# SEGMENT-WISE CROSS-SELL ANALYSIS
 <img width="1283" height="717" alt="Screenshot 2025-12-31 141136" src="https://github.com/user-attachments/assets/9a1f3509-be31-4669-ab4d-3afd08db1338" />
 
-# PRODUCT RECOMMENDATION 
 <img width="1304" height="725" alt="Screenshot 2025-12-31 141149" src="https://github.com/user-attachments/assets/d5120c49-6f30-4fc5-9f63-fc64a5d8761d" />
 
 ## Key Recommendations
 
-Prioritize Frequent Buyers with loyalty programs and personalized offers, as they generate the highest value.
+1.Prioritize Frequent Buyers with loyalty programs and personalized offers, as they generate the highest value.
 
-Use discounts, bundles, and reminders to convert Occasional Buyers into Regular Buyers.
+2.Use discounts, bundles, and reminders to convert Occasional Buyers into Regular Buyers.
 
-Apply segment-based cross-sell recommendations instead of generic global recommendations for higher relevance and conversion.
+3.Apply segment-based cross-sell recommendations instead of generic global recommendations for higher relevance and conversion.
 
-Use top-selling products such as whole milk and rolls/buns as trigger items for cross-selling.
+4.Use top-selling products such as whole milk and rolls/buns as trigger items for cross-selling.
 
-Combine segment bestsellers and segment-level association rules to improve recommendation accuracy.
+5.Combine segment bestsellers and segment-level association rules to improve recommendation accuracy.
 
-Use global recommendations only as a fallback and rotate suggestions to avoid repetition.
+6.Use global recommendations only as a fallback and rotate suggestions to avoid repetition.
 
 
 
