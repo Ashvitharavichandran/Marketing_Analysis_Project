@@ -5,7 +5,7 @@ The objective is to identify different types of customers, understand their buyi
 
 By combining K-Means clustering with the Apriori algorithm, the project provides both global and segment-specific insights that support data-driven marketing strategies, personalized recommendations, and inventory planning.
 
-# Technologies Used
+## Technologies Used
 
 Python
 
@@ -15,9 +15,9 @@ Scikit-learn
 
 
 
-# Project Workflow
+## Project Workflow
 
-# 1. Data Loading and Preprocessing
+## 1. Data Loading and Preprocessing
 
 Load the grocery transaction dataset
 
@@ -27,7 +27,7 @@ Handle missing values
 
 Create a unique transaction ID using customer ID and date
 
-# 2. Feature Engineering
+## 2. Feature Engineering
 
 Aggregate transaction-level data into customer-level features:
 
@@ -37,7 +37,7 @@ Total items purchased
 
 Standardize features for clustering
 
-# 3. Customer Segmentation
+## 3. Customer Segmentation
 
 Apply K-Means clustering to group customers
 
@@ -51,7 +51,7 @@ Occasional Buyers
 
 Export customer segmentation results
 
-# 4. Market Basket Analysis (Global)
+## 4. Market Basket Analysis (Global)
 
 Create a transaction–item matrix
 
@@ -61,7 +61,7 @@ Generate association rules using confidence and lift metrics
 
 Identify commonly purchased product combinations
 
-# 5. Segment-Wise Market Basket Analysis
+## 5. Segment-Wise Market Basket Analysis
 
 Merge customer segment information with transaction data
 
@@ -69,19 +69,19 @@ Perform market basket analysis for each customer segment
 
 Identify segment-specific purchasing patterns
 
-# 6. Best-Selling Product Analysis
+## 6. Best-Selling Product Analysis
 
 Identify globally best-selling products
 
 Identify best-selling products for each customer segment
 
-# 7. Cross-Sell Recommendation Generation
+## 7. Cross-Sell Recommendation Generation
 
 Generate global cross-sell recommendations
 
 Generate segment-specific cross-sell recommendations
 
-# Dashboard(Power BI)
+## Dashboard(Power BI)
 
 <img width="1292" height="723" alt="Screenshot 2025-12-31 141201" src="https://github.com/user-attachments/assets/f8989855-8a50-495b-890d-7a5d5c0aa459" />
 
@@ -94,7 +94,7 @@ Generate segment-specific cross-sell recommendations
 
 <img width="1304" height="725" alt="Screenshot 2025-12-31 141149" src="https://github.com/user-attachments/assets/d5120c49-6f30-4fc5-9f63-fc64a5d8761d" />
 
-# Key Recommendations
+## Key Recommendations
 
 1.Prioritize Frequent Buyers with loyalty programs and personalized offers, as they generate the highest value.
 
